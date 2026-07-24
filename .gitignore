@@ -10,3 +10,4 @@ chroma_db/
 
 test_sdk.py
 memex_sdk1.py
+lib/ 
