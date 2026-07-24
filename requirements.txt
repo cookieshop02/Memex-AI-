@@ -2,7 +2,7 @@ streamlit # UI ke liye
 PyMuPDF
 google-genai #Free Gemini 2.5/3 Flash API ke liye
 lxml_html_clean
-pymupdf (fitz) # High-speed PDF reading ke liye
+pymupdf #(fitz) # High-speed PDF reading ke liye
 chromadb 
 langchain-community
 trafilatura #Links se pure text extraction ke liye
