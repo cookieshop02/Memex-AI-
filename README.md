@@ -1,8 +1,8 @@
 # 🧠 Memex AI — Enterprise Hybrid GraphRAG Engine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://memex-ai-nvghlr24bdgxxpachapthg.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 **Memex AI** is an advanced Knowledge Engine powered by **Hybrid GraphRAG**. It combines **Vector Search (ChromaDB)** with **Dynamic Knowledge Graph Extraction (Google Gemini 2.5 Flash)** to deliver deep, structured, and factual document understanding with interactive graph visualizations.
 
